@@ -1,7 +1,7 @@
 # SNSF_stat
 
 (analysis of
-[SNSF grants data](http://p3.snf.ch/Pages/DataAndDocumentation.aspx)) 
+[SNSF grants data](http://p3.snf.ch/Pages/DataAndDocumentation.aspx))  -- in collaboration with [Pirroh](https://github.com/pirroh)
 
 ## related literature
 
